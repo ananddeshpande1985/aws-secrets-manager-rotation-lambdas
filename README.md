@@ -4,4 +4,6 @@ Secrets Manager provides rotation function templates for several types of creden
 
 ## License Summary
 
+T
 This sample code is made available under a modified MIT license. See the LICENSE file.
+# This is added for testing
